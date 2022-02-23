@@ -33,7 +33,7 @@
 **💬 My inbox is always open, feel free to contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/unhan-wang-tw" target="_blank">
+  <a href="https://in.linkedin.com/in/yunhan-wang-tw" target="_blank">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:wangchan1993tw@gmail.com" target="_blank">
