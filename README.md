@@ -40,5 +40,5 @@
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Gmail.svg" />
   </a>
   <a href="https://medium.com/@dacn2017" target="_blank">
-    <img align="left" alt="Piyush Pravin | Medium" width="36px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Medium.svg"  />
+    <img align="left" alt="Piyush Pravin | Medium" width="24x" src="https://github.com/WangchanTW/WangchanTW/blob/master/Medium.svg"  />
   </a>
