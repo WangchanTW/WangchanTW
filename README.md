@@ -1,6 +1,7 @@
 <h1> Hi there..! <img src="https://github.com/WangchanTW/WangchanTW/blob/master/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=WangchanTW alt=WangchanTW> </p>
-I am a data scientist/engineer in semiconductor industry. Also, I have some experience in robotics and automobiles. 
+
+<br>I am a data scientist/engineer in semiconductor industry. Also, I have some experience in robotics and automobiles. 
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming. 
 <br>If there is any chance to join the development of open source, please contact me without hesitation.
 <br>
@@ -39,5 +40,5 @@ I am a data scientist/engineer in semiconductor industry. Also, I have some expe
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Gmail.svg" />
   </a>
   <a href="https://medium.com/@dacn2017" target="_blank">
-    <img align="left" alt="Piyush Pravin | Medium" width="42px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Medium.svg"  />
+    <img align="left" alt="Piyush Pravin | Medium" width="36px" src="https://github.com/WangchanTW/WangchanTW/blob/master/Medium.svg"  />
   </a>
